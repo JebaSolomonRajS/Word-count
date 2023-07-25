@@ -13,7 +13,7 @@ Anaconda - Python 3.7
 
 ### Step 1:
 
-open the flie as a read mode
+open the file as a read mode
 
 ### Step 2:
 
